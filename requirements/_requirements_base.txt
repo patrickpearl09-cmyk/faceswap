@@ -13,3 +13,4 @@ imageio>=2.33.1
 imageio-ffmpeg>=0.4.9,<0.6.0
 ffmpy>=0.3.0
 pywin32>=305 ; sys_platform == "win32"
+
